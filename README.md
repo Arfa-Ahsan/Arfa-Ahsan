@@ -1,5 +1,4 @@
-✨ Hey! I’m **Arfa Ahsan**, a **Computer Science and Information Technology graduate** with a passion for **Artificial Intelligence** and **Data Science**.  
-I’m deeply curious about how data and intelligent systems can change the way we live and work. One day, I hope to excel in this field — maybe even building my own startup 🚀 that brings AI solutions to real-world challenges.  
+Hey! I’m **Arfa Ahsan**, a **Computer Science and Information Technology graduate** with a passion for **Artificial Intelligence** and **Data Science**.I’m deeply curious about how data and intelligent systems can change the way we live and work. One day, I hope to excel in this field — maybe even building my own startup 🚀 that brings AI solutions to real-world challenges.  
 
 ---
 
@@ -33,9 +32,7 @@ A predictive ML model that helps companies **retain valuable customers**.
 
 ---
 
-## 📈 GitHub Highlights  
-
-![Arfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfa-Ahsan&show_icons=true&theme=tokyonight)  
+## 📈 GitHub Highlights   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfa-Ahsan&layout=compact&theme=tokyonight)  
 
 ---
