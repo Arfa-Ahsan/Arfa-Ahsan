@@ -1,4 +1,9 @@
-Hey! I’m **Arfa Ahsan**, a **Computer Science and Information Technology graduate** with a passion for **Artificial Intelligence** and **Data Science**.I’m deeply curious about how data and intelligent systems can change the way we live and work. One day, I hope to excel in this field — maybe even building my own startup 🚀 that brings AI solutions to real-world challenges.  
+# Hi there 👋 I'm Arfa Ahsan  
+
+- 👩‍💻 A **Computer Science and Information Technology graduate**.  
+- 🤖 Passionate about **Artificial Intelligence** and **Data Science**.  
+- 🔍 Deeply curious about how **data and intelligent systems** can change the way we live and work.  
+- 🚀 Aspiring to excel in AI and one day **build my own startup** that brings AI solutions to real-world challenges.  
 
 ---
 
