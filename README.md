@@ -49,8 +49,7 @@ A predictive ML model that helps companies **retain valuable customers**.
 
 ---
 
-## 🤝 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arfa-ahsan/)  
+## 🤝 Let’s Connect    
 - 🌐 [GitHub](https://github.com/Arfa-Ahsan)  
 
 ⚡ *Always excited to collaborate on impactful AI and Data Science projects!*  
