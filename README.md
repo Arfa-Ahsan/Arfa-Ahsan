@@ -17,6 +17,12 @@
 
 ## 📌 Featured Projects  
 
+🔹 [**RadioCheck-F1-Assistant**](https://github.com/Arfa-Ahsan/RadioCheck-F1-Assistant)
+An AI-powered Formula 1 assistant that delivers real-time insights through natural conversation. Get live driver and constructor standings, championship odds powered by Monte Carlo simulations, race weather forecasts, and official YouTube highlights — all in one interactive chat interface.
+
+🔹 [**Content Creation Agents**](https://github.com/Arfa-Ahsan/Content_Creation_Agents)
+An AI-driven system that automates platform-specific content creation using a coordinated team of specialized agents. It researches trending topics, writes engaging copy, and optimizes for SEO — all in one workflow.
+
 🔹 [**Email Optimizer Agent**](https://github.com/Arfa-Ahsan/Email_Optimizer_Agent)  
 An AI-powered app that helps you write, evaluate, and improve professional emails using **Groq Langchain, LangGraph agents, and MoonshotAI**.  
 
