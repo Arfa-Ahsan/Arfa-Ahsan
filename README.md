@@ -18,28 +18,48 @@
 ## 📌 Featured Projects  
 
 🔹 [**RadioCheck-F1-Assistant**](https://github.com/Arfa-Ahsan/RadioCheck-F1-Assistant)
-An AI-powered Formula 1 assistant that delivers real-time insights through natural conversation. Get live driver and constructor standings, championship odds powered by Monte Carlo simulations, race weather forecasts, and official YouTube highlights — all in one interactive chat interface.
+An AI-powered Formula 1 assistant built with LangGraph’s multi-agent system using a tool-based agent pattern. It features five specialized agents that;
+- Retrieve live driver and constructor standings through automated web scraping (via GitHub Actions)
+- Estimate championship outcomes using Monte Carlo simulations
+- Provide real-time weather analysis
+- Deliver official YouTube race highlights
+- Retrieve data through google search engine 
+All insights are delivered through a natural conversational interface, giving users a seamless, interactive F1 experience.
 
 🔹 [**Content Creation Agents**](https://github.com/Arfa-Ahsan/Content_Creation_Agents)
-An AI-driven system that automates platform-specific content creation using a coordinated team of specialized agents. It researches trending topics, writes engaging copy, and optimizes for SEO — all in one workflow.
+An AI-driven multi-agent content generation system built on CrewAI. It automates the process of creating engaging, SEO-optimized content through three collaborating agents:
+
+1) Media Analyst – Researches the given topic and identifies trending discussions
+2) Content Writer – Creates platform-tailored, engaging content
+3) SEO Optimizer – Refines the content for search engine optimization and better reach
 
 🔹 [**Email Optimizer Agent**](https://github.com/Arfa-Ahsan/Email_Optimizer_Agent)  
-An AI-powered app that helps you write, evaluate, and improve professional emails using **Groq Langchain, LangGraph agents, and MoonshotAI**.  
+An intelligent email-writing assistant built using LangGraph and the Reflect–Evaluator design pattern.
+The user provides an email topic (the more detailed, the better)
+1) The Reflect (Generator) agent drafts the initial version of the email
+2) The Evaluator agent analyzes it based on parameters like clarity, grammar, call-to-action strength, and tone
+Developed with Groq LangChain, LangGraph, and MoonshotAI, this system helps users craft clear, professional, and persuasive emails through AI-guided refinement. 
 
 🔹 [**UrduWhiz**](https://github.com/Arfa-Ahsan/UrduWhiz)  
-An interactive web app that processes **Urdu storybooks** using OCR + semantic search, making them more accessible for readers.  
+An AI-based Urdu learning and reading platform designed for kids. It processes scanned Urdu storybooks (PDFs) and allows users to ask questions about the content interactively.
+Built using a Hybrid RAG (Retrieval-Augmented Generation) approach that combines keyword retrieval and semantic search. It further employs rerankers to improve document relevance.
 
 🔹 [**PII Detection & Redaction (Audio)**](https://github.com/Arfa-Ahsan/PII_Detection_and_Redaction_audio_Project)  
-Transcribes audio, detects **sensitive PII** using NLP, and automatically redacts it for data privacy.  
-
-🔹 [**ASL Image Classification**](https://github.com/Arfa-Ahsan/ASL_Image_Classification)  
-A custom CNN model that achieves **~99% accuracy** on the ASL Alphabet dataset for sign language recognition.  
+Many organizations such as banks, call centers, and utility companies record customer calls for quality or verification. During these interactions, users often share sensitive personal information like CNIC numbers, names, or account details. If left unfiltered, these recordings can pose serious data privacy risks.We have built an intelligent system that detects these sensitive entities and redacts them from the audio recordings.
 
 🔹 [**AI Wildlife Project**](https://github.com/Arfa-Ahsan/AI-Project)  
-Computer Vision + Audio Processing system that tracks wildlife for **research, conservation, and security**.  
+An AI-powered wildlife monitoring system integrating computer vision and audio signal processing.
+It uses YOLOv8 and Haar Cascade for animal detection and tracking, while Librosa processes sound patterns to identify species activity. The system aids research, conservation, and security by automating wildlife observation and behavioral analysis.
 
 🔹 [**Customer Churn Prediction**](https://github.com/Arfa-Ahsan/Customer-Churn-Prediction-Project)  
-A predictive ML model that helps companies **retain valuable customers**.  
+Developed a machine learning model to predict and explain why customers leave a service.
+Key steps included:
+- Data cleaning and exploratory analysis
+- Feature engineering and scaling
+- Handling class imbalance using SMOTE
+- Model training with hyperparameter tuning
+- Explainability via SHAP analysis
+Insights showed that tenure and contract type reduce churn (positive influence), while high monthly or total charges increase churn risk. The model provides actionable intelligence for customer retention strategies.
 
 ---
 
