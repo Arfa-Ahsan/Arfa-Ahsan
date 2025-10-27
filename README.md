@@ -23,21 +23,23 @@ An AI-powered Formula 1 assistant built with LangGraph’s multi-agent system us
 - Estimate championship outcomes using Monte Carlo simulations
 - Provide real-time weather analysis
 - Deliver official YouTube race highlights
-- Retrieve data through google search engine 
+- Retrieve data through google search engine
+  
 All insights are delivered through a natural conversational interface, giving users a seamless, interactive F1 experience.
 
 🔹 [**Content Creation Agents**](https://github.com/Arfa-Ahsan/Content_Creation_Agents)
 An AI-driven multi-agent content generation system built on CrewAI. It automates the process of creating engaging, SEO-optimized content through three collaborating agents:
 
-1) Media Analyst – Researches the given topic and identifies trending discussions
-2) Content Writer – Creates platform-tailored, engaging content
-3) SEO Optimizer – Refines the content for search engine optimization and better reach
+-  Media Analyst – Researches the given topic and identifies trending discussions.
+-  Content Writer – Creates platform-tailored, engaging content.
+-  SEO Optimizer – Refines the content for search engine optimization and better reach.
 
 🔹 [**Email Optimizer Agent**](https://github.com/Arfa-Ahsan/Email_Optimizer_Agent)  
 An intelligent email-writing assistant built using LangGraph and the Reflect–Evaluator design pattern.
 The user provides an email topic (the more detailed, the better)
-1) The Reflect (Generator) agent drafts the initial version of the email
-2) The Evaluator agent analyzes it based on parameters like clarity, grammar, call-to-action strength, and tone
+- The Reflect (Generator) agent drafts the initial version of the email.
+- The Evaluator agent analyzes it based on parameters like clarity, grammar, call-to-action strength, and tone.
+  
 Developed with Groq LangChain, LangGraph, and MoonshotAI, this system helps users craft clear, professional, and persuasive emails through AI-guided refinement. 
 
 🔹 [**UrduWhiz**](https://github.com/Arfa-Ahsan/UrduWhiz)  
@@ -59,6 +61,7 @@ Key steps included:
 - Handling class imbalance using SMOTE
 - Model training with hyperparameter tuning
 - Explainability via SHAP analysis
+  
 Insights showed that tenure and contract type reduce churn (positive influence), while high monthly or total charges increase churn risk. The model provides actionable intelligence for customer retention strategies.
 
 ---
